@@ -3,5 +3,4 @@
 
 ## Overview
 
-This blank library is intended to be used as a skeleton for deleloping
-Mongoose OS libraries.
+Test library for Mongoose-os to test using own "C" librarys with calling function from js FFI

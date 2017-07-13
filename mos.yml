@@ -1,6 +1,6 @@
-author: mongoose-os
+author: wixa <shyshkin.konstantin@gmail.com>
 type: lib
-description: An empty lib that does nothing
+description: A test lib wich have only 1 funcion test(led, state)
 version: 1.0
 
 sources:
