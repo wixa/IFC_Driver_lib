@@ -1,5 +1,6 @@
 #include "fw/src/mgos_init.h"  
 #include <stdbool.h>
+#include <stdio.h>
 #include "fw/src/mgos_gpio.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/timers.h"
