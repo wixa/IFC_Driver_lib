@@ -13,5 +13,5 @@ void led_start (void *pvParameters){
 }
 
 void test_on (int led){
-  xTaskCreate(led_start, "led_on", 1024,(void *)led, 6, NULL);
+  xTaskCreate(led_start, "led_on", 2048,(void *)led, 6, NULL);
 }
